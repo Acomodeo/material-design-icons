@@ -1,5 +1,5 @@
 {
-  "name": "material-design-icons",
+  "name": "@acoint/material-design-icons",
   "version": "3.0.1",
   "description": "Material Design icons by Google",
   "main": "iconfont/material-icons.css",
